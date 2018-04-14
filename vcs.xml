@@ -3,6 +3,10 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/jcat4/Angular-Udemy-Course.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://github.com/mmahler2/sundae-cloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
